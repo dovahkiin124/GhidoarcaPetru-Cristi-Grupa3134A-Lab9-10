@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\OpenTK_lab10\OpenTK_winforms_z03\bin\Debug\OpenTK_winforms_z03.exe.config
+C:\Users\Asus\Desktop\OpenTK_lab10\OpenTK_winforms_z03\bin\Debug\OpenTK_winforms_z03.exe
+C:\Users\Asus\Desktop\OpenTK_lab10\OpenTK_winforms_z03\bin\Debug\OpenTK_winforms_z03.pdb
+C:\Users\Asus\Desktop\OpenTK_lab10\OpenTK_winforms_z03\bin\Debug\OpenTK.dll
+C:\Users\Asus\Desktop\OpenTK_lab10\OpenTK_winforms_z03\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Asus\Desktop\OpenTK_lab10\OpenTK_winforms_z03\bin\Debug\OpenTK.xml
+C:\Users\Asus\Desktop\OpenTK_lab10\OpenTK_winforms_z03\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Asus\Desktop\OpenTK_lab10\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\OpenTK_lab10\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\OpenTK_lab10\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z02.Form1.resources
+C:\Users\Asus\Desktop\OpenTK_lab10\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.Properties.Resources.resources
+C:\Users\Asus\Desktop\OpenTK_lab10\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\OpenTK_lab10\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\OpenTK_lab10\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.CopyComplete
+C:\Users\Asus\Desktop\OpenTK_lab10\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.exe
+C:\Users\Asus\Desktop\OpenTK_lab10\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.pdb
